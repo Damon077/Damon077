@@ -22,8 +22,6 @@
  <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div>
 
-### Apaixonado por aprender coisas novas.
-
 ## Estudando:
 - ### Japonês;</br>
 - ### Javascript;</br>
