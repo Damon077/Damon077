@@ -1,5 +1,5 @@
 
-### Hello/Olá, I'm damon.
+### Hello, I'm damon.
 
 ### (❁´◡`❁)
 
