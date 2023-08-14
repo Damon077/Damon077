@@ -9,7 +9,7 @@
 [![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ryanmatheus051107@gmail.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/D4m0n)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/damon.dsn/)
+)](https://www.instagram.com/damonn.ry/)
 
 ![Damon077's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damon077&show_icons=true&theme=dark)
 
