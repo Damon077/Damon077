@@ -21,7 +21,7 @@
 </div>
 
 ## Studying:
-- ### Japonês;</br>
+- ### Japanese;</br>
 - ### Javascript;</br>
 - ### Python;</br>
-- ### Lógica/Algoritmos;
+- ### Logic/Algorithm;
