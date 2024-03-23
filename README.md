@@ -20,7 +20,7 @@
  <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div>
 
-## Estudando:
+## Studying:
 - ### Japonês;</br>
 - ### Javascript;</br>
 - ### Python;</br>
